@@ -547,7 +547,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"URL"
+                 "value":"\/@\/tcm\/workadventure\/floor0"
                 }],
          "type":"tilelayer",
          "visible":true,
