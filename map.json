@@ -261,7 +261,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/livestream.com\/accounts\/27408588\/events\/8704828\/videos\/192956712\/player?width=640&height=360&enableInfo=true&defaultDrawer=&autoPlay=true&mute=false"
+                 "value":"https:\/\/livestream.com\/accounts\/22300522\/events\/6680139\/player?width=640&height=360&enableInfoAndActivity=true&defaultDrawer=&autoPlay=true&mute=false"
                 }],
          "type":"tilelayer",
          "visible":true,
