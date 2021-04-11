@@ -4993,11 +4993,11 @@
         {
          "columns":12,
          "firstgid":1209,
-         "image":"tilesets\/sol_inte\u0301rieur.png",
+         "image":"tilesets\/sol.png",
          "imageheight":320,
          "imagewidth":384,
          "margin":0,
-         "name":"sol_inte\u0301rieur",
+         "name":"sol",
          "spacing":0,
          "tilecount":120,
          "tileheight":32,
