@@ -1,11 +1,4 @@
 { "compressionlevel":-1,
- "editorsettings":
-    {
-     "export":
-        {
-         "target":"."
-        }
-    },
  "height":31,
  "infinite":false,
  "layers":[
@@ -234,7 +227,7 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.4.3",
+ "tiledversion":"1.5.0",
  "tileheight":32,
  "tilesets":[
         {
@@ -4205,11 +4198,11 @@
         {
          "columns":12,
          "firstgid":1221,
-         "image":"tilesets\/sol_inte\u0301rieur.png",
+         "image":"tilesets\/sol.png",
          "imageheight":320,
          "imagewidth":384,
          "margin":0,
-         "name":"sol_inte\u0301rieur",
+         "name":"sol",
          "spacing":0,
          "tilecount":120,
          "tileheight":32,
@@ -4306,6 +4299,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":1.4,
+ "version":1.5,
  "width":20
 }
