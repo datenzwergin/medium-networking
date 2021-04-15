@@ -117,7 +117,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.exploreauthenticfrance.com\/test"
+                 "value":"https:\/\/www.exploreauthenticfrance.com\/journey-to-brittany-pdf"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -135,7 +135,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/drive.google.com\/file\/d\/1ozK757HHnI3Le7Qj_GbUpoKMZ50vCmoq\/preview"
+                 "value":"https:\/\/www.exploreauthenticfrance.com\/breiz-bridges-pdf"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -153,7 +153,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/drive.google.com\/file\/d\/1ZB9UKQuWZ7-u-iTgDBUBhWoOJ_iSfXsj\/preview"
+                 "value":"https:\/\/www.exploreauthenticfrance.com\/in-deauville-pdf"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -171,7 +171,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/drive.google.com\/file\/d\/1t3Ap-u1Ya-6y2Kl_fe5bANBBPLFpoPvw\/preview"
+                 "value":"https:\/\/www.exploreauthenticfrance.com\/sarthe-pdf"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -189,7 +189,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/drive.google.com\/file\/d\/17_GwtMyxhAaXQm-CzxvER-135-kHi4Fn\/preview"
+                 "value":"https:\/\/www.exploreauthenticfrance.com\/orleans-pdf"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -207,7 +207,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/drive.google.com\/file\/d\/1wzoRtgnKmmJq0sNLdwI-C_lfdK9uuuxN\/preview"
+                 "value":"https:\/\/www.exploreauthenticfrance.com\/reims-pdf"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -225,7 +225,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/drive.google.com\/file\/d\/1Y06FITiyxg1sHurh1NQMCKCwS6RHtDei\/preview"
+                 "value":"https:\/\/www.exploreauthenticfrance.com\/burgundy-pdf"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -243,7 +243,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/drive.google.com\/file\/d\/1KmTs3_NiEvZY4grLMtBoNxiBixfZxlcy\/preview"
+                 "value":"https:\/\/www.exploreauthenticfrance.com\/toulouse-pdf"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -261,7 +261,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/drive.google.com\/file\/d\/1zdyPyimVXfwTeRAY2CzsDIxEyEBiYAT_\/preview"
+                 "value":"https:\/\/www.exploreauthenticfrance.com\/miki-travel-pdf"
                 }],
          "type":"tilelayer",
          "visible":true,
