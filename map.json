@@ -401,6 +401,12 @@
          "id":103,
          "name":"companyLink1",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/www.exploreauthenticfrance.com\/post\/hello-everyone-welcome-to-cake-designs"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":80,
@@ -1278,7 +1284,7 @@
          "y":0
         }],
  "nextlayerid":160,
- "nextobjectid":2,
+ "nextobjectid":5,
  "orientation":"orthogonal",
  "properties":[
         {

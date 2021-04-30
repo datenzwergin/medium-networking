@@ -1,7 +1,7 @@
 const zoneList = {
     companyLink2: {
-        message: 'Open Breiz Bridges web site !',
-        openWebSite: 'https://www.exploreauthenticfrance.com/post/oven-roasted-asparagus-with-herb-vinaigrette',
+        message: 'Welcome to our booth! Visit our website!',
+        openWebSite: 'https://voyage-en-bretagne.com/en/homepage/',
         openWebsitePolicy: 'fullscreen; accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture'
     }
 };
