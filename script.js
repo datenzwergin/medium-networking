@@ -21,7 +21,7 @@ const zoneList = {
     },
     companyLink5: {
         message: 'Welcome to our booth! Visit our website!',
-        openWebSite: 'https://www.tourisme-orleansmetropole.com/',
+        openWebSite: 'https://en.tourisme-orleansmetropole.com/explore',
         openWebsitePolicy: 'fullscreen; accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture'
     },
     companyLink6: {
