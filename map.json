@@ -908,7 +908,7 @@
         {
          "columns":8,
          "firstgid":1,
-         "image":"tilesets\/carpet-red.png",
+         "image":"src\/assets\/carpet-red.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -921,7 +921,7 @@
         {
          "columns":13,
          "firstgid":65,
-         "image":"tilesets\/tileset4_export.png",
+         "image":"src\/assets\/tileset4_export.png",
          "imageheight":416,
          "imagewidth":416,
          "margin":0,
@@ -1511,7 +1511,7 @@
         {
          "columns":12,
          "firstgid":234,
-         "image":"tilesets\/tileset5_export.png",
+         "image":"src\/assets\/tileset5_export.png",
          "imageheight":320,
          "imagewidth":384,
          "margin":0,
@@ -2119,7 +2119,7 @@
         {
          "columns":19,
          "firstgid":354,
-         "image":"tilesets\/Serene_Village_32x32.png",
+         "image":"src\/assets\/Serene_Village_32x32.png",
          "imageheight":1440,
          "imagewidth":608,
          "margin":0,
@@ -4896,7 +4896,7 @@
         {
          "columns":12,
          "firstgid":1209,
-         "image":"tilesets\/sol.png",
+         "image":"src\/assets\/sol.png",
          "imageheight":320,
          "imagewidth":384,
          "margin":0,
@@ -4909,7 +4909,7 @@
         {
          "columns":10,
          "firstgid":1329,
-         "image":"tilesets\/tileset3.2.png",
+         "image":"src\/assets\/tileset3.2.png",
          "imageheight":320,
          "imagewidth":320,
          "margin":0,
@@ -4950,7 +4950,7 @@
         {
          "columns":10,
          "firstgid":1429,
-         "image":"tilesets\/objets.png",
+         "image":"src\/assets\/objets.png",
          "imageheight":192,
          "imagewidth":320,
          "margin":0,
@@ -5000,7 +5000,7 @@
         {
          "columns":8,
          "firstgid":1489,
-         "image":"tilesets\/fantasy.png",
+         "image":"src\/assets\/fantasy.png",
          "imageheight":4256,
          "imagewidth":256,
          "margin":0,
@@ -5887,7 +5887,7 @@
         {
          "columns":64,
          "firstgid":2553,
-         "image":"tilesets\/water.png",
+         "image":"src\/assets\/water.png",
          "imageheight":384,
          "imagewidth":2048,
          "margin":0,
@@ -6333,7 +6333,7 @@
         {
          "columns":12,
          "firstgid":3321,
-         "image":"tilesets\/tileset2.png",
+         "image":"src\/assets\/tileset2.png",
          "imageheight":320,
          "imagewidth":384,
          "margin":0,
@@ -6346,7 +6346,7 @@
         {
          "columns":17,
          "firstgid":3441,
-         "image":"tilesets\/balloon.png",
+         "image":"src\/assets\/balloon.png",
          "imageheight":480,
          "imagewidth":544,
          "margin":0,
@@ -6378,7 +6378,7 @@
         {
          "columns":14,
          "firstgid":3696,
-         "image":"tilesets\/work_adventure_tilesets.png",
+         "image":"src\/assets\/work_adventure_tilesets.png",
          "imageheight":1408,
          "imagewidth":448,
          "margin":0,
@@ -7589,7 +7589,7 @@
         {
          "columns":35,
          "firstgid":4312,
-         "image":"tilesets\/mountains.png",
+         "image":"src\/assets\/mountains.png",
          "imageheight":608,
          "imagewidth":1120,
          "margin":0,
@@ -10582,7 +10582,7 @@
         {
          "columns":1,
          "firstgid":4977,
-         "image":"tilesets\/info.png",
+         "image":"src\/assets\/info.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
