@@ -833,12 +833,12 @@
         {
          "name":"mapCopyright",
          "type":"string",
-         "value":"CC-BY-SA 3.0:\n - http:\/\/creativecommons.org\/licenses\/by-sa\/3.0\/\n - See the file: cc-by-sa-3.0.txt\nGNU GPL 3.0:\n - http:\/\/www.gnu.org\/licenses\/gpl-3.0.html\n - See the file: gpl-3.0.txt\n\nAssets from: hello@workadventu.re"
+         "value":"CC-BY-SA 3.0:\n - http:\/\/creativecommons.org\/licenses\/by-sa\/3.0\/\n - See the file: cc-by-sa-3.0.txt\nGNU GPL 3.0:\n - http:\/\/www.gnu.org\/licenses\/gpl-3.0.html\n - See the file: gpl-3.0.txt\n\nTilesets: workadventu.re, https:\/\/limezu.itch.io\/"
         }, 
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"Event - Fair"
+         "value":"A fair where you can meet with other business professionals to create link while enjoying and some catering.\nSuitable for large events, each of the 10 rooms can accommodate around 20 people."
         }, 
         {
          "name":"mapImage",
@@ -846,9 +846,14 @@
          "value":"map.png"
         }, 
         {
+         "name":"mapLink",
+         "type":"string",
+         "value":"https:\/\/valdotr.github.io\/medium-networking\/map.json"
+        }, 
+        {
          "name":"mapName",
          "type":"string",
-         "value":"Fai"
+         "value":"Networking"
         }, 
         {
          "name":"script",
