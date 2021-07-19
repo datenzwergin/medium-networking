@@ -838,7 +838,7 @@
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"A fair where you can meet with other business professionals to create link while enjoying and some catering.\nSuitable for large events, each of the 10 rooms can accommodate around 20 people."
+         "value":"Suitable for up to 250 users.\n\nLocated in a forest, this is a venue with a central dining table for everyone to be reunited and able to talk to each other. There are also chilled meeting areas where workshops can be held and a forest to explore with its known relaxing features. Perfect for a weekend getaway to solidify your teams\u2019 bond."
         }, 
         {
          "name":"mapImage",
@@ -861,7 +861,7 @@
          "value":"script.js"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.7.0",
+ "tiledversion":"1.7.1",
  "tileheight":32,
  "tilesets":[
         {
