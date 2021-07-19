@@ -853,7 +853,7 @@
         {
          "name":"mapName",
          "type":"string",
-         "value":"Networking"
+         "value":"Medium Networking"
         }, 
         {
          "name":"script",
