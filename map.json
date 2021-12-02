@@ -244,12 +244,12 @@
                 {
                  "name":"openTab",
                  "type":"string",
-                 "value":"https:\/\/filebox.die-linke.de\/index.php\/s\/dF2oPEbf5f7mGn9"
+                 "value":""
                 }, 
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/filebox.die-linke.de\/index.php\/s\/dF2oPEbf5f7mGn9"
+                 "value":""
                 }],
          "type":"tilelayer",
          "visible":true,
